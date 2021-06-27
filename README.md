@@ -24,6 +24,8 @@
 
 ![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=Naitwa-Alexandre&show_icons=true&count_private=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitwa-Alexandre&layout=compact)](https://github.com/Naitwa-Alexandre/github-readme-stats)
+
 
 <!--
 **Naitwa-Alexandre/Naitwa-Alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
