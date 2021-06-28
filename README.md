@@ -1,5 +1,7 @@
 ### Hi there 👋
 ## I'm Alexandre Pereira
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9d2c400-d47a-4c4a-84ac-05efd1fa7781/deploy-status)](https://app.netlify.com/sites/alexandre-rick-morty-slider/deploys)
+
 - I live in :brazil:, northeast :sunglasses::sunrise:
 - I have been working on React as frontend developer :computer:
 - I have been learnig more about hooks and styling with material-ui :sparkling_heart:
